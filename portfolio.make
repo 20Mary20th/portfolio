@@ -5,8 +5,7 @@ api = 2
 ; Note the Drupal core project first before proceeding to note the modules you want to install beforehand
 ; projects[] = drupal
 ; By default, You can call the drupal core like the one above but you can also note the Drupal version you want to call instead
-
-projects[drupal][version] = "7.34"
+; projects[drupal][version] = "7.34"
 
 ; Contrib Modules
 ; From these, you can set your directory of your contrib modules along with its version
