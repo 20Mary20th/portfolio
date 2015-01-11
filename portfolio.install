@@ -6,6 +6,6 @@
 * We'll just call the install method from the standard install here. Everything else we do will be on top of that.
 */
 function portfolio_install() {
-include_once DRUPAL_ROOT . '/profiles/standard/portfolio.install';
-portfolio_install();
+  include_once DRUPAL_ROOT . '/profiles/standard/standard.install';
+  standard_install();
 }
