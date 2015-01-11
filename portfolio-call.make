@@ -5,6 +5,7 @@ api = 2
 ; First, call the drupal core and its version you want
 projects[drupal][version] = "7.34"
 
+;
 ; Installation Profile
 ; From this, you can also call your existing installation profile you had from your Git Account
 
