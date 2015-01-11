@@ -2,8 +2,8 @@
 /**
 * Implements hook_install().
 *
-* Perform actions to set up the site for this profile.
-* We'll just call the install method from the standard install here. Everything else we do will be on top of that.
+* This will implement the action of installing the TC profile. I have to use the standard installation method instead
+* 
 */
 function portfolio_install() {
   include_once DRUPAL_ROOT . '/profiles/standard/standard.install';
