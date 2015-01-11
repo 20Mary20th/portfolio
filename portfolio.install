@@ -7,5 +7,5 @@
 */
 function portfolio_install() {
 include_once DRUPAL_ROOT . '/profiles/standard/portfolio.install';
-standard_install();
+portfolio_install();
 }
