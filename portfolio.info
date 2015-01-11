@@ -1,6 +1,6 @@
 name = TwinklesCat Profile
 description = Install the TwinklesCat Custom Profile Example
-version = 1.0
+version = VERSION
 core = 7.x
 
 ; Drupal Core Modules. You can remove or comment out [;] a certain module below that you won't be needing along the installation
