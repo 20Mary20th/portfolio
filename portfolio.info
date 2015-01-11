@@ -32,5 +32,5 @@ dependencies[] = rdf
 dependencies[] = ctools
 dependencies[] = views
 dependencies[] = pathauto
-dependencies[] = admin_menu
+;dependencies[] = admin_menu
 dependencies[] = webform
